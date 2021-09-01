@@ -8,11 +8,12 @@
  <h1 align="center"></h1>
  
  <p align="center">
- 👋 I’m @earthly-pixel
+ 👋 I’m @earthly-pixel  <br>
  👀 I’m interested in web developer
- 🌱 I’m currently learning many things
+ <br>
+ 🌱 I’m currently learning many things  <br>
  📫 How to reach me nslamet45@gmail.com
-
+ <br>
 
    <img width="300px" src="https://c.tenor.com/L0pi1J8YNy4AAAAd/kiana-kaslana-honkai-smug.gif">
 </p>
