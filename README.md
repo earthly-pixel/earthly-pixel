@@ -9,9 +9,10 @@
  
  <p align="center">
  👋 I’m @earthly-pixel  <br>
- 👀 I’m interested in web developer
+ 👀 I’m working as web developer
  <br>
- 🌱 I’m currently learning many things  <br>
+ 🌱 I’m currently learning many things<br> 
+ 🤫 My Forte is playing around <a href="laravel.com">Laravel<a> or <a href="filamentphp.com">Filament<a> <br>
  📫 How to reach me nslamet45@gmail.com
  <br>
 
